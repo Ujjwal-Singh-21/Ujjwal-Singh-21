@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-singh-21&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-singh-21" /> </p>
 
-- 🔭 I’m currently working on **Todo App**
+- 🔭 I’m currently working on **Travel-Ease-Website**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Advance Java**
 
 - 📫 How to reach me **ujjwalkumar9447@gmail.com**
 
